@@ -4,7 +4,6 @@ Estudante de Sistemas para internet no Instituto Federal da Paraíba e atualment
 
 João Pessoa, Paraíba - Brazil
 
----
 
 ## Tecnologias & Ferramentas 
 
@@ -20,19 +19,16 @@ João Pessoa, Paraíba - Brazil
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
----
 
 ## Estatísticas  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laviniarm&layout=compact)
 
----
 
 ## Conecte-se comigo  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laviniarodrigues/)
 
----
 
 ## Contato 
 
