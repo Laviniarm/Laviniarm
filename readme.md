@@ -36,4 +36,4 @@ João Pessoa, Paraíba - Brazil
 
 ## Contato 
 
-📧 E-mail: [lavinia.rodriguesr@gmail.com](lavinia.rodriguesr@gmail.com) 
+📧 E-mail: lavinia.rodriguesr@gmail.com 
