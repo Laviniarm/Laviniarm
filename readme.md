@@ -1,8 +1,8 @@
-# Olá, eu sou Lavínia Rodrigues
+# Bem-vindo ao meu GitHub!
 
-Estudante de Sistemas para internet no Instituto Federal da Paraíba e atualmente sou estagiária em Desenvolvimento de Software na Secretaria de Estado de Administração (SEAD), onde participo da criação de aplicações utilizando React e Next.js, contribuindo com a modernização digital do Estado. Também já atuei como instrutora no Projeto Olímpico de Programação (POP), ministrando aulas de Python para alunos do ensino médio.
+Sou estudante de Sistemas para internet no Instituto Federal da Paraíba e atualmente estou estagiando com Desenvolvimento de Software na Secretaria do Estado de Administração (SEAD), onde participo da criação de aplicações utilizando React e Next.js, contribuindo com a modernização digital do Estado. Também já atuei como instrutora no Projeto Olímpico de Programação (POP), ministrando aulas de Python para alunos do ensino médio.
 
-João Pessoa, Paraíba - Brazil
+João Pessoa, Paraíba - Brasil
 
 
 ## Tecnologias & Ferramentas 
