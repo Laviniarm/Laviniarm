@@ -5,8 +5,6 @@
 👩‍🏫 Ex-instrutora do Projeto Olímpico de Programação (POP), com aulas de **Python** para estudantes do ensino médio  
 📍 João Pessoa - PB, Brasil
 
----
-
 
 ## Tecnologias & Ferramentas 
 
