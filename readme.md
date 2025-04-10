@@ -1,10 +1,11 @@
-# Bem-vindo(a) ao meu GitHub! 
+# Bem-vindo(a) ao meu GitHub! 👋
 
-Atualmente sou estudante de Sistemas para Internet no Instituto Federal da Paraíba e estagiária em Desenvolvimento de Software na Secretaria de Estado da Administração (SEAD), onde colaboro na criação de aplicações modernas com React e Next.js, contribuindo com a transformação digital do Estado.
+🎓 Estudante do último período **Sistemas para Internet** no IFPB  
+💻 Estagiária em **Desenvolvimento de Software** na SEAD, atuando com **React** e **Next.js**  
+👩‍🏫 Ex-instrutora do Projeto Olímpico de Programação (POP), com aulas de **Python** para estudantes do ensino médio  
+📍 João Pessoa - PB, Brasil
 
-Também tive a oportunidade de atuar como instrutora no Projeto Olímpico de Programação (POP), ministrando aulas de Python para estudantes do ensino médio de escolas públicas — uma experiência que reforçou meu compromisso com a educação e a tecnologia.
-
-João Pessoa, Paraíba - Brasil
+---
 
 
 ## Tecnologias & Ferramentas 
