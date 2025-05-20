@@ -1,7 +1,7 @@
 # Bem-vindo(a) ao meu GitHub! 👋
 
-🎓 Estudante do último período **Sistemas para Internet** no IFPB  
-💻 Estagiária em **Desenvolvimento de Software** na SEAD, atuando com **React** e **Next.js**  
+🎓 Estudante de **Sistemas para Internet** no IFPB  
+💻 Estagiária em **Desenvolvimento de Software** na SEAD, atuando com **React**,**Next.js**,**Java** e **Spring Boot**
 👩‍🏫 Ex-instrutora do Projeto Olímpico de Programação (POP), com aulas de **Python** para estudantes do ensino médio  
 📍 João Pessoa - PB, Brasil
 
