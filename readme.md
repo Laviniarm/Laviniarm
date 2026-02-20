@@ -45,11 +45,6 @@ Além disso, desenvolvi projetos autônomos como **Desenvolvedora Back-end**, cr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
-
-## 📊 Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laviniarm&layout=compact)
 
 ---
 
